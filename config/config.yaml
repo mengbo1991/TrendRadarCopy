@@ -1,4 +1,12 @@
-[GLOBAL_FILTER]
-
-[WORD_GROUPS]
-华为
+# 在此粘贴你的 config.yaml...
+# 或拖拽文件到编辑器区域
+# 或点击右上角"加载官网最新配置"
+    - id: "toutiao"
+    - id: "baidu"
+    - id: "thepaper"
+    - id: "bilibili-hot-search"
+    - id: "tieba"
+    - id: "weibo"
+    - id: "douyin"
+    - id: "zhihu"
+      name: "知乎"
